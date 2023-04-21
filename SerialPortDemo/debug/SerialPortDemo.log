@@ -1,0 +1,21 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+  AppInfo.cpp
+  Globals.cpp
+  MySerialport.cpp
+  main.cpp
+  qcustomplot.cpp
+  qmlplot.cpp
+  slqmlcustomplot.cpp
+E:\BaiduSyncdisk\code\QT\QMLdemo\SerialPortWave\SerialPortDemo\cpp\common\qmlplot.cpp(132,52): warning C4100: “event”: 未引用的形参
+E:\BaiduSyncdisk\code\QT\QMLdemo\SerialPortWave\SerialPortDemo\cpp\common\slqmlcustomplot.cpp(106,52): warning C4100: “event”: 未引用的形参
+  qrc_image.cpp
+  qrc_js.cpp
+  qrc_qml.cpp
+  moc_AppInfo.cpp
+  moc_EnumParameter.cpp
+  moc_MySerialport.cpp
+  moc_SwitchPage.cpp
+  moc_qcustomplot.cpp
+  moc_qmlplot.cpp
+  moc_slqmlcustomplot.cpp
+  SerialPortDemo.vcxproj -> E:\BaiduSyncdisk\code\QT\QMLdemo\SerialPortWave\SerialPortDemo\debug\SerialPortDemo.exe

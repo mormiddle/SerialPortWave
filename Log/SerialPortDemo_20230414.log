@@ -1,0 +1,805 @@
+09:53:32.988 (0x33f0) [info ]
+09:53:32.992 (0x33f0) [info ] ----- App init ------
+09:53:32.992 (0x33f0) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+09:53:32.992 (0x33f0) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+09:53:32.992 (0x33f0) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+09:53:32.996 (0x33f0) [info ] Check chinese support: 012汉字abc
+09:53:32.996 (0x33f0) [info ] ----- msAppInit: 74114815.339600, 02:03:29.66705815
+09:53:32.996 (0x33f0) [info ] [trace] --- FuncEntry
+09:53:32.996 (0x33f0) [info ] [trace]012汉字abc 
+09:53:32.996 (0x33f0) [info ] qInfo
+09:53:33.000 (0x33f0) [info ] qDebug
+09:53:33.000 (0x33f0) [info ] qWanging
+09:53:33.000 (0x33f0) [info ] QCritical
+09:53:33.000 (0x33f0) [info ] call getMs() 1000 times, 0.032300 ms
+09:53:33.008 (0x33f0) [info ] 1-1
+09:53:33.008 (0x33f0) [info ] 1-2
+09:53:33.012 (0x33f0) [info ] 2-1,汉字
+09:53:33.012 (0x33f0) [info ] 2-2,汉字
+09:53:33.012 (0x33f0) [info ] 1
+09:53:33.012 (0x33f0) [info ] 12345678901234
+09:53:33.012 (0x33f0) [info ] 12345679020032.0000000000000000
+09:53:33.016 (0x33f0) [info ] 12345678901234567168.00000000000000000000000000000000
+09:53:33.020 (0x33f0) [debug] SlBase::add( 3 + 4 ) = 7
+09:53:33.020 (0x33f0) [debug] SlBase::getTime() = 2023-04-14 09:53:33.020
+09:53:33.024 (0x33f0) [info ] [trace] --- FuncExit, 26.012 ms
+09:53:36.139 (0x33f0) [warn ] QQmlApplicationEngine failed to load component
+09:53:36.143 (0x33f0) [warn ] qrc:/qml/main.qml:23:5: Type MainPage unavailable
+09:53:36.143 (0x33f0) [warn ] qrc:/qml/MainPage.qml:92:9: Type MiddleMain unavailable
+09:53:36.143 (0x33f0) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:36.143 (0x33f0) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:36.147 (0x33f0) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:36.147 (0x33f0) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:36.147 (0x33f0) [info ] ----- msAppExit: 74118001.859700, 02:03:29.66709001
+09:53:36.147 (0x33f0) [info ] app running: 3186.520100, 00:00:00.3186
+09:53:36.151 (0x33f0) [info ] app return: -1
+09:53:36.151 (0x33f0) [info ] ----- App exit ------
+09:53:49.422 (0x16c8) [info ]
+09:53:49.422 (0x16c8) [info ] ----- App init ------
+09:53:49.427 (0x16c8) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+09:53:49.428 (0x16c8) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+09:53:49.428 (0x16c8) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+09:53:49.428 (0x16c8) [info ] Check chinese support: 012汉字abc
+09:53:49.428 (0x16c8) [info ] ----- msAppInit: 74131274.888200, 02:03:30.66721274
+09:53:49.428 (0x16c8) [info ] [trace] --- FuncEntry
+09:53:49.432 (0x16c8) [info ] [trace]012汉字abc 
+09:53:49.432 (0x16c8) [info ] qInfo
+09:53:49.432 (0x16c8) [info ] qDebug
+09:53:49.432 (0x16c8) [info ] qWanging
+09:53:49.432 (0x16c8) [info ] QCritical
+09:53:49.436 (0x16c8) [info ] call getMs() 1000 times, 0.029600 ms
+09:53:49.440 (0x16c8) [info ] 1-1
+09:53:49.440 (0x16c8) [info ] 1-2
+09:53:49.444 (0x16c8) [info ] 2-1,汉字
+09:53:49.445 (0x16c8) [info ] 2-2,汉字
+09:53:49.445 (0x16c8) [info ] 1
+09:53:49.445 (0x16c8) [info ] 12345678901234
+09:53:49.445 (0x16c8) [info ] 12345679020032.0000000000000000
+09:53:49.445 (0x16c8) [info ] 12345678901234567168.00000000000000000000000000000000
+09:53:49.453 (0x16c8) [debug] SlBase::add( 3 + 4 ) = 7
+09:53:49.453 (0x16c8) [debug] SlBase::getTime() = 2023-04-14 09:53:49.453
+09:53:49.453 (0x16c8) [info ] [trace] --- FuncExit, 24.4604 ms
+09:53:49.706 (0x16c8) [warn ] QQmlApplicationEngine failed to load component
+09:53:49.706 (0x16c8) [warn ] qrc:/qml/main.qml:23:5: Type MainPage unavailable
+09:53:49.710 (0x16c8) [warn ] qrc:/qml/MainPage.qml:92:9: Type MiddleMain unavailable
+09:53:49.710 (0x16c8) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:49.710 (0x16c8) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:49.710 (0x16c8) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:49.710 (0x16c8) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:49.714 (0x16c8) [info ] ----- msAppExit: 74131566.727500, 02:03:30.66721566
+09:53:49.714 (0x16c8) [info ] app running: 291.839300, 00:00:00.291
+09:53:49.714 (0x16c8) [info ] app return: -1
+09:53:49.714 (0x16c8) [info ] ----- App exit ------
+09:53:53.265 (0x21d0) [info ]
+09:53:53.265 (0x21d0) [info ] ----- App init ------
+09:53:53.269 (0x21d0) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+09:53:53.269 (0x21d0) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+09:53:53.269 (0x21d0) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+09:53:53.269 (0x21d0) [info ] Check chinese support: 012汉字abc
+09:53:53.273 (0x21d0) [info ] ----- msAppInit: 74135117.610700, 02:03:31.66724117
+09:53:53.273 (0x21d0) [info ] [trace] --- FuncEntry
+09:53:53.273 (0x21d0) [info ] [trace]012汉字abc 
+09:53:53.273 (0x21d0) [info ] qInfo
+09:53:53.273 (0x21d0) [info ] qDebug
+09:53:53.277 (0x21d0) [info ] qWanging
+09:53:53.277 (0x21d0) [info ] QCritical
+09:53:53.277 (0x21d0) [info ] call getMs() 1000 times, 0.029700 ms
+09:53:53.366 (0x21d0) [info ] 1-1
+09:53:53.366 (0x21d0) [info ] 1-2
+09:53:53.366 (0x21d0) [info ] 2-1,汉字
+09:53:53.370 (0x21d0) [info ] 2-2,汉字
+09:53:53.370 (0x21d0) [info ] 1
+09:53:53.370 (0x21d0) [info ] 12345678901234
+09:53:53.370 (0x21d0) [info ] 12345679020032.0000000000000000
+09:53:53.374 (0x21d0) [info ] 12345678901234567168.00000000000000000000000000000000
+09:53:53.378 (0x21d0) [debug] SlBase::add( 3 + 4 ) = 7
+09:53:53.378 (0x21d0) [debug] SlBase::getTime() = 2023-04-14 09:53:53.378
+09:53:53.382 (0x21d0) [info ] [trace] --- FuncExit, 108.094 ms
+09:53:53.638 (0x21d0) [warn ] QQmlApplicationEngine failed to load component
+09:53:53.638 (0x21d0) [warn ] qrc:/qml/main.qml:23:5: Type MainPage unavailable
+09:53:53.642 (0x21d0) [warn ] qrc:/qml/MainPage.qml:92:9: Type MiddleMain unavailable
+09:53:53.642 (0x21d0) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:53.642 (0x21d0) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:53.642 (0x21d0) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:53.646 (0x21d0) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:53.646 (0x21d0) [info ] ----- msAppExit: 74135499.532300, 02:03:31.66724499
+09:53:53.646 (0x21d0) [info ] app running: 381.921600, 00:00:00.381
+09:53:53.646 (0x21d0) [info ] app return: -1
+09:53:53.646 (0x21d0) [info ] ----- App exit ------
+09:53:56.292 (0x0874) [info ]
+09:53:56.292 (0x0874) [info ] ----- App init ------
+09:53:56.292 (0x0874) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+09:53:56.296 (0x0874) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+09:53:56.296 (0x0874) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+09:53:56.296 (0x0874) [info ] Check chinese support: 012汉字abc
+09:53:56.296 (0x0874) [info ] ----- msAppInit: 74138144.511000, 02:03:31.66727144
+09:53:56.296 (0x0874) [info ] [trace] --- FuncEntry
+09:53:56.300 (0x0874) [info ] [trace]012汉字abc 
+09:53:56.300 (0x0874) [info ] qInfo
+09:53:56.300 (0x0874) [info ] qDebug
+09:53:56.300 (0x0874) [info ] qWanging
+09:53:56.304 (0x0874) [info ] QCritical
+09:53:56.304 (0x0874) [info ] call getMs() 1000 times, 0.028700 ms
+09:53:56.308 (0x0874) [info ] 1-1
+09:53:56.308 (0x0874) [info ] 1-2
+09:53:56.312 (0x0874) [info ] 2-1,汉字
+09:53:56.312 (0x0874) [info ] 2-2,汉字
+09:53:56.312 (0x0874) [info ] 1
+09:53:56.312 (0x0874) [info ] 12345678901234
+09:53:56.312 (0x0874) [info ] 12345679020032.0000000000000000
+09:53:56.316 (0x0874) [info ] 12345678901234567168.00000000000000000000000000000000
+09:53:56.320 (0x0874) [debug] SlBase::add( 3 + 4 ) = 7
+09:53:56.320 (0x0874) [debug] SlBase::getTime() = 2023-04-14 09:53:56.320
+09:53:56.324 (0x0874) [info ] [trace] --- FuncExit, 24.4111 ms
+09:53:56.572 (0x0874) [warn ] QQmlApplicationEngine failed to load component
+09:53:56.572 (0x0874) [warn ] qrc:/qml/main.qml:23:5: Type MainPage unavailable
+09:53:56.576 (0x0874) [warn ] qrc:/qml/MainPage.qml:92:9: Type MiddleMain unavailable
+09:53:56.576 (0x0874) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:56.576 (0x0874) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:56.576 (0x0874) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:53:56.580 (0x0874) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:53:56.581 (0x0874) [info ] ----- msAppExit: 74138433.507700, 02:03:31.66727433
+09:53:56.582 (0x0874) [info ] app running: 288.996700, 00:00:00.288
+09:53:56.582 (0x0874) [info ] app return: -1
+09:53:56.582 (0x0874) [info ] ----- App exit ------
+09:54:04.652 (0x36a4) [info ]
+09:54:04.656 (0x36a4) [info ] ----- App init ------
+09:54:04.656 (0x36a4) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+09:54:04.656 (0x36a4) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+09:54:04.656 (0x36a4) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+09:54:04.660 (0x36a4) [info ] Check chinese support: 012汉字abc
+09:54:04.660 (0x36a4) [info ] ----- msAppInit: 74146506.056800, 02:03:32.66734506
+09:54:04.660 (0x36a4) [info ] [trace] --- FuncEntry
+09:54:04.660 (0x36a4) [info ] [trace]012汉字abc 
+09:54:04.664 (0x36a4) [info ] qInfo
+09:54:04.664 (0x36a4) [info ] qDebug
+09:54:04.664 (0x36a4) [info ] qWanging
+09:54:04.664 (0x36a4) [info ] QCritical
+09:54:04.664 (0x36a4) [info ] call getMs() 1000 times, 0.028500 ms
+09:54:04.672 (0x36a4) [info ] 1-1
+09:54:04.672 (0x36a4) [info ] 1-2
+09:54:04.672 (0x36a4) [info ] 2-1,汉字
+09:54:04.676 (0x36a4) [info ] 2-2,汉字
+09:54:04.676 (0x36a4) [info ] 1
+09:54:04.676 (0x36a4) [info ] 12345678901234
+09:54:04.676 (0x36a4) [info ] 12345679020032.0000000000000000
+09:54:04.676 (0x36a4) [info ] 12345678901234567168.00000000000000000000000000000000
+09:54:04.684 (0x36a4) [debug] SlBase::add( 3 + 4 ) = 7
+09:54:04.684 (0x36a4) [debug] SlBase::getTime() = 2023-04-14 09:54:04.684
+09:54:04.684 (0x36a4) [info ] [trace] --- FuncExit, 24.5633 ms
+09:54:04.939 (0x36a4) [warn ] QQmlApplicationEngine failed to load component
+09:54:04.941 (0x36a4) [warn ] qrc:/qml/main.qml:23:5: Type MainPage unavailable
+09:54:04.942 (0x36a4) [warn ] qrc:/qml/MainPage.qml:92:9: Type MiddleMain unavailable
+09:54:04.943 (0x36a4) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:54:04.943 (0x36a4) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:54:04.944 (0x36a4) [warn ] qrc:/qml/MiddleMain.qml:5:1: module "QtQuick.XmlListModel" is not installed
+09:54:04.945 (0x36a4) [warn ] qrc:/qml/MiddleMain.qml:4:1: module "QtQuick.Shapes" is not installed
+09:54:04.946 (0x36a4) [info ] ----- msAppExit: 74146798.553700, 02:03:32.66734798
+09:54:04.946 (0x36a4) [info ] app running: 292.496900, 00:00:00.292
+09:54:04.947 (0x36a4) [info ] app return: -1
+09:54:04.948 (0x36a4) [info ] ----- App exit ------
+10:08:09.865 (0x3f54) [info ]
+10:08:09.870 (0x3f54) [info ] ----- App init ------
+10:08:09.870 (0x3f54) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+10:08:09.870 (0x3f54) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+10:08:09.870 (0x3f54) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+10:08:09.874 (0x3f54) [info ] Check chinese support: 012汉字abc
+10:08:09.894 (0x3f54) [info ] ----- msAppInit: 779086.948900, 00:01:17.702086
+10:08:09.894 (0x3f54) [info ] [trace] --- FuncEntry
+10:08:09.894 (0x3f54) [info ] [trace]012汉字abc 
+10:08:09.898 (0x3f54) [info ] qInfo
+10:08:09.898 (0x3f54) [info ] qDebug
+10:08:09.898 (0x3f54) [info ] qWanging
+10:08:09.902 (0x3f54) [info ] QCritical
+10:08:09.902 (0x3f54) [info ] call getMs() 1000 times, 0.028900 ms
+10:08:09.922 (0x3f54) [info ] 1-1
+10:08:09.946 (0x3f54) [info ] 1-2
+10:08:09.950 (0x3f54) [info ] 2-1,汉字
+10:08:09.950 (0x3f54) [info ] 2-2,汉字
+10:08:09.950 (0x3f54) [info ] 1
+10:08:09.950 (0x3f54) [info ] 12345678901234
+10:08:09.954 (0x3f54) [info ] 12345679020032.0000000000000000
+10:08:09.954 (0x3f54) [info ] 12345678901234567168.00000000000000000000000000000000
+10:08:09.962 (0x3f54) [debug] SlBase::add( 3 + 4 ) = 7
+10:08:09.966 (0x3f54) [debug] SlBase::getTime() = 2023-04-14 10:08:09.966
+10:08:09.966 (0x3f54) [info ] [trace] --- FuncExit, 70.8489 ms
+10:08:11.625 (0x3f54) [warn ] QObject::connect: No such slot DDuiBasePlotItem::mousePressEvent(QMouseEvent*)
+10:08:11.625 (0x3f54) [warn ] Both point size and pixel size set. Using pixel size.
+10:08:11.629 (0x3f54) [warn ] Both point size and pixel size set. Using pixel size.
+10:08:11.629 (0x3f54) [warn ] Both point size and pixel size set. Using pixel size.
+10:08:11.629 (0x3f54) [warn ] Both point size and pixel size set. Using pixel size.
+10:08:12.347 (0x3f54) [warn ] qrc:/qml/BottomMain.qml:12:5: QML Rectangle: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+10:08:14.588 (0x3f54) [warn ] file:///F:/code/QT/QMLdemo/SerialPortWave/Release/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+10:08:14.588 (0x3f54) [warn ] file:///F:/code/QT/QMLdemo/SerialPortWave/Release/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+10:08:14.734 (0x3f54) [debug] Name :  "COM5"
+10:08:14.738 (0x3f54) [debug] Name :  "COM4"
+10:08:14.738 (0x3f54) [debug] Name :  "COM1"
+10:08:14.738 (0x3f54) [debug] Name :  "COM2"
+10:08:14.742 (0x3f54) [debug] Name :  "COM3"
+10:08:14.742 (0x3f54) [debug] Name :  "COM6"
+10:08:14.770 (0x3f54) [warn ] qrc:/qml/basic/ComboBox.qml:9: ReferenceError: combobox_implicit_width is not defined
+10:08:14.774 (0x3f54) [warn ] qrc:/qml/basic/ComboBox.qml:9: ReferenceError: combobox_implicit_width is not defined
+10:08:14.854 (0x3f54) [debug] qml: [trace]activetrue
+10:08:18.170 (0x3f54) [debug] false
+10:08:18.172 (0x3f54) [debug]  openPort is working 
+10:08:18.190 (0x3f54) [debug] "COM1" 115200 QSerialPort::Data8 QSerialPort::NoParity QSerialPort::OneStop
+10:08:18.261 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 1, S = 2123, count = 1"
+10:08:18.312 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 2, S = 2123, count = 2"
+10:08:18.361 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 2, S = 2123, count = 2"
+10:08:18.411 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 3, S = 2123, count = 3"
+10:08:18.461 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 3, S = 2123, count = 3"
+10:08:18.511 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 4, S = 2123, count = 4"
+10:08:18.561 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 4, S = 2123, count = 4"
+10:08:18.611 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 5, S = 2123, count = 5"
+10:08:18.660 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 5, S = 2123, count = 5"
+10:08:18.712 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 6, S = 2123, count = 6"
+10:08:18.761 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 6, S = 2123, count = 6"
+10:08:18.815 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 7, S = 2123, count = 7"
+10:08:18.862 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 7, S = 2123, count = 7"
+10:08:18.912 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 8, S = 2123, count = 8"
+10:08:18.960 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 8, S = 2123, count = 8"
+10:08:19.012 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 9, S = 2123, count = 9"
+10:08:19.061 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 9, S = 2123, count = 9"
+10:08:19.112 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 10, S = 2123, count = 10"
+10:08:19.163 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 10, S = 2123, count = 10"
+10:08:19.210 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 11, S = 2123, count = 11"
+10:08:19.260 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 11, S = 2123, count = 11"
+10:08:19.312 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 12, S = 2123, count = 12"
+10:08:19.361 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 12, S = 2123, count = 12"
+10:08:19.411 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 13, S = 2123, count = 13"
+10:08:19.460 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 13, S = 2123, count = 13"
+10:08:19.512 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 14, S = 2123, count = 14"
+10:08:19.560 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 14, S = 2123, count = 14"
+10:08:19.611 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 15, S = 2123, count = 15"
+10:08:19.661 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 15, S = 2123, count = 15"
+10:08:19.712 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 16, S = 2123, count = 16"
+10:08:19.761 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 16, S = 2123, count = 16"
+10:08:19.817 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 17, S = 2123, count = 17"
+10:08:19.860 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 17, S = 2123, count = 17"
+10:08:19.911 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 18, S = 2123, count = 18"
+10:08:19.960 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 18, S = 2123, count = 18"
+10:08:19.991 (0x3f54) [debug] qml: [trace]activefalse
+10:08:20.011 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 19, S = 2123, count = 19"
+10:08:20.060 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 19, S = 2123, count = 19"
+10:08:20.110 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 20, S = 2123, count = 20"
+10:08:20.160 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 20, S = 2123, count = 20"
+10:08:20.212 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 21, S = 2123, count = 21"
+10:08:20.261 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 21, S = 2123, count = 21"
+10:08:20.312 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 22, S = 2123, count = 22"
+10:08:20.364 (0x3f54) [debug] qml: [trace]activetrue
+10:08:20.367 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mousePressEvent(class QMouseEvent *)
+10:08:20.369 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 22, S = 2123, count = 22"
+10:08:20.371 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.377 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.380 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.394 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.409 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.413 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.415 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 23, S = 2123, count = 23"
+10:08:20.425 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.442 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.446 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.448 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.459 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.468 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 23, S = 2123, count = 23"
+10:08:20.476 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.480 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.490 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.494 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.507 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.515 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.520 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 24, S = 2123, count = 24"
+10:08:20.536 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:20.544 (0x3f54) [debug] qml: [trace]activefalse
+10:08:20.561 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 24, S = 2123, count = 24"
+10:08:20.613 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 25, S = 2123, count = 25"
+10:08:20.661 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 25, S = 2123, count = 25"
+10:08:20.700 (0x3f54) [debug] qml: [trace]activetrue
+10:08:20.711 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 26, S = 2123, count = 26"
+10:08:20.760 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 26, S = 2123, count = 26"
+10:08:20.812 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 27, S = 2123, count = 27"
+10:08:20.860 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 27, S = 2123, count = 27"
+10:08:20.913 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 28, S = 2123, count = 28"
+10:08:20.960 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 28, S = 2123, count = 28"
+10:08:21.013 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 29, S = 2123, count = 29"
+10:08:21.061 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 29, S = 2123, count = 29"
+10:08:21.111 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 30, S = 2123, count = 30"
+10:08:21.160 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 30, S = 2123, count = 30"
+10:08:21.211 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 31, S = 2123, count = 31"
+10:08:21.260 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 31, S = 2123, count = 31"
+10:08:21.298 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mousePressEvent(class QMouseEvent *)
+10:08:21.301 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.310 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.315 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 32, S = 2123, count = 32"
+10:08:21.317 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.324 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.337 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.341 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.349 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.362 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.363 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 32, S = 2123, count = 32"
+10:08:21.366 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.375 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.382 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.393 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.397 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.408 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.412 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 33, S = 2123, count = 33"
+10:08:21.415 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.425 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.429 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.441 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.449 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:21.450 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseReleaseEvent(class QMouseEvent *)
+10:08:21.460 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 33, S = 2123, count = 33"
+10:08:21.500 (0x3f54) [debug] qml: [trace]activefalse
+10:08:21.511 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 34, S = 2123, count = 34"
+10:08:21.564 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 34, S = 2123, count = 34"
+10:08:21.615 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 35, S = 2123, count = 35"
+10:08:21.670 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 35, S = 2123, count = 35"
+10:08:21.714 (0x3f54) [debug] qml: [trace]activetrue
+10:08:21.720 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 36, S = 2123, count = 36"
+10:08:21.760 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 36, S = 2123, count = 36"
+10:08:21.812 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 37, S = 2123, count = 37"
+10:08:21.860 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 37, S = 2123, count = 37"
+10:08:21.911 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 38, S = 2123, count = 38"
+10:08:21.961 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 38, S = 2123, count = 38"
+10:08:22.015 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 39, S = 2123, count = 39"
+10:08:22.062 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 39, S = 2123, count = 39"
+10:08:22.113 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 40, S = 2123, count = 40"
+10:08:22.161 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 40, S = 2123, count = 40"
+10:08:22.214 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 41, S = 2123, count = 41"
+10:08:22.266 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 41, S = 2123, count = 41"
+10:08:22.315 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 42, S = 2123, count = 42"
+10:08:22.361 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 42, S = 2123, count = 42"
+10:08:22.413 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 43, S = 2123, count = 43"
+10:08:22.461 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 43, S = 2123, count = 43"
+10:08:22.512 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 44, S = 2123, count = 44"
+10:08:22.554 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mousePressEvent(class QMouseEvent *)
+10:08:22.556 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.565 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 44, S = 2123, count = 44"
+10:08:22.575 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.581 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.597 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.606 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.616 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.683 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.689 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 45, S = 2123, count = 45"
+10:08:22.692 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.700 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.715 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseMoveEvent(class QMouseEvent *)
+10:08:22.719 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 46, S = 2123, count = 46"
+10:08:22.723 (0x3f54) [debug] void __cdecl DDuiBasePlotItem::mouseReleaseEvent(class QMouseEvent *)
+10:08:22.760 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 46, S = 2123, count = 46"
+10:08:22.811 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 47, S = 2123, count = 47"
+10:08:22.860 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 47, S = 2123, count = 47"
+10:08:22.911 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 48, S = 2123, count = 48"
+10:08:22.960 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 48, S = 2123, count = 48"
+10:08:23.014 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 49, S = 2123, count = 49"
+10:08:23.064 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 49, S = 2123, count = 49"
+10:08:23.113 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 50, S = 2123, count = 50"
+10:08:23.160 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 50, S = 2123, count = 50"
+10:08:23.213 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 51, S = 2123, count = 51"
+10:08:23.260 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 51, S = 2123, count = 51"
+10:08:23.313 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 52, S = 2123, count = 52"
+10:08:23.360 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 52, S = 2123, count = 52"
+10:08:23.412 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 53, S = 2123, count = 53"
+10:08:23.460 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 53, S = 2123, count = 53"
+10:08:23.516 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 54, S = 2123, count = 54"
+10:08:23.562 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 54, S = 2123, count = 54"
+10:08:23.614 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 55, S = 2123, count = 55"
+10:08:23.661 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 55, S = 2123, count = 55"
+10:08:23.712 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 56, S = 2123, count = 56"
+10:08:23.761 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 56, S = 2123, count = 56"
+10:08:23.814 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 57, S = 2123, count = 57"
+10:08:23.869 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 57, S = 2123, count = 57"
+10:08:23.911 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 58, S = 2123, count = 58"
+10:08:23.960 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 58, S = 2123, count = 58"
+10:08:24.012 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 59, S = 2123, count = 59"
+10:08:24.062 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 59, S = 2123, count = 59"
+10:08:24.114 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 60, S = 2123, count = 60"
+10:08:24.161 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 60, S = 2123, count = 60"
+10:08:24.212 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 61, S = 2123, count = 61"
+10:08:24.259 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 61, S = 2123, count = 61"
+10:08:24.317 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 62, S = 2123, count = 62"
+10:08:24.361 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 62, S = 2123, count = 62"
+10:08:24.411 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 63, S = 2123, count = 63"
+10:08:24.459 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 63, S = 2123, count = 63"
+10:08:24.512 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 64, S = 2123, count = 64"
+10:08:24.561 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 64, S = 2123, count = 64"
+10:08:24.613 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 65, S = 2123, count = 65"
+10:08:24.661 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 65, S = 2123, count = 65"
+10:08:24.712 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 66, S = 2123, count = 66"
+10:08:24.760 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 66, S = 2123, count = 66"
+10:08:24.812 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 67, S = 2123, count = 67"
+10:08:24.860 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 67, S = 2123, count = 67"
+10:08:24.911 (0x3f54) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 68, S = 2123, count = 68"
+10:08:24.935 (0x3f54) [debug] true
+10:08:24.937 (0x3f54) [debug]  openPort is working 
+10:08:25.023 (0x3f54) [debug] qml: get result:false
+10:08:25.459 (0x3f54) [trace] qml:
+10:08:25.514 (0x3f54) [info ] ----- msAppExit: 794736.622800, 00:01:19.715736
+10:08:25.515 (0x3f54) [info ] app running: 15649.673900, 00:00:01.14649
+10:08:25.516 (0x3f54) [info ] app return: 0
+10:08:25.518 (0x3f54) [info ] ----- App exit ------
+15:08:08.560 (0x1490) [info ]
+15:08:08.644 (0x1490) [info ] ----- App init ------
+15:08:08.645 (0x1490) [info ] SerialPortDemo V1.0.0.0, compiled at Wed Apr 12 09:22:44 2023
+15:08:08.646 (0x1490) [info ] Exe file: F:/code/QT/QMLdemo/SerialPortWave/Release/SerialPortDemo.exe
+15:08:08.674 (0x1490) [info ] App path: F:/code/QT/QMLdemo/SerialPortWave
+15:08:08.675 (0x1490) [info ] Check chinese support: 012汉字abc
+15:08:08.676 (0x1490) [info ] ----- msAppInit: 18776579.620500, 00:31:17.16899579
+15:08:08.677 (0x1490) [info ] [trace] --- FuncEntry
+15:08:08.678 (0x1490) [info ] [trace]012汉字abc 
+15:08:08.679 (0x1490) [info ] qInfo
+15:08:08.680 (0x1490) [info ] qDebug
+15:08:08.681 (0x1490) [info ] qWanging
+15:08:08.682 (0x1490) [info ] QCritical
+15:08:08.683 (0x1490) [info ] call getMs() 1000 times, 0.019900 ms
+15:08:08.688 (0x1490) [info ] 1-1
+15:08:08.689 (0x1490) [info ] 1-2
+15:08:08.689 (0x1490) [info ] 2-1,汉字
+15:08:08.690 (0x1490) [info ] 2-2,汉字
+15:08:08.691 (0x1490) [info ] 1
+15:08:08.691 (0x1490) [info ] 12345678901234
+15:08:08.692 (0x1490) [info ] 12345679020032.0000000000000000
+15:08:08.693 (0x1490) [info ] 12345678901234567168.00000000000000000000000000000000
+15:08:08.698 (0x1490) [debug] SlBase::add( 3 + 4 ) = 7
+15:08:08.699 (0x1490) [debug] SlBase::getTime() = 2023-04-14 15:08:08.699
+15:08:08.699 (0x1490) [info ] [trace] --- FuncExit, 22.3495 ms
+15:08:09.354 (0x1490) [warn ] QObject::connect: No such slot DDuiBasePlotItem::mousePressEvent(QMouseEvent*)
+15:08:09.356 (0x1490) [warn ] Both point size and pixel size set. Using pixel size.
+15:08:09.357 (0x1490) [warn ] Both point size and pixel size set. Using pixel size.
+15:08:09.359 (0x1490) [warn ] Both point size and pixel size set. Using pixel size.
+15:08:09.360 (0x1490) [warn ] Both point size and pixel size set. Using pixel size.
+15:08:09.971 (0x1490) [warn ] qrc:/qml/BottomMain.qml:12:5: QML Rectangle: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+15:08:10.009 (0x1490) [warn ] file:///F:/code/QT/QMLdemo/SerialPortWave/Release/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+15:08:10.079 (0x1490) [warn ] file:///F:/code/QT/QMLdemo/SerialPortWave/Release/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+15:08:10.266 (0x1490) [debug] Name :  "COM5"
+15:08:10.268 (0x1490) [debug] Name :  "COM7"
+15:08:10.269 (0x1490) [debug] Name :  "COM4"
+15:08:10.270 (0x1490) [debug] Name :  "COM1"
+15:08:10.271 (0x1490) [debug] Name :  "COM2"
+15:08:10.272 (0x1490) [debug] Name :  "COM3"
+15:08:10.273 (0x1490) [debug] Name :  "COM6"
+15:08:10.290 (0x1490) [warn ] qrc:/qml/basic/ComboBox.qml:9: ReferenceError: combobox_implicit_width is not defined
+15:08:10.291 (0x1490) [warn ] qrc:/qml/basic/ComboBox.qml:9: ReferenceError: combobox_implicit_width is not defined
+15:08:10.297 (0x1490) [debug] qml: [trace]activetrue
+15:08:29.695 (0x1490) [debug] false
+15:08:29.696 (0x1490) [debug]  openPort is working 
+15:08:29.836 (0x1490) [debug] "COM7" 115200 QSerialPort::Data8 QSerialPort::NoParity QSerialPort::OneStop
+15:08:29.889 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 0, S = 0, count = 0"
+15:08:29.897 (0x1490) [debug] "15:8:29.897 0 frames received, 5 bytes ignored"
+15:08:29.900 (0x1490) [debug] "15:8:29.900 1 frames received, 11 bytes ignored"
+15:08:29.952 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 1, S = 1419, count = 1"
+15:08:29.994 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 2, S = 1419, count = 2"
+15:08:30.040 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 2, S = 1419, count = 2"
+15:08:30.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 3, S = 1419, count = 3"
+15:08:30.140 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 3, S = 1419, count = 3"
+15:08:30.193 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 4, S = 1419, count = 4"
+15:08:30.245 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 4, S = 1419, count = 4"
+15:08:30.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 5, S = 1420, count = 5"
+15:08:30.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 5, S = 1420, count = 5"
+15:08:30.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 6, S = 1419, count = 6"
+15:08:30.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 6, S = 1419, count = 6"
+15:08:30.491 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 7, S = 1420, count = 7"
+15:08:30.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 8, S = 1419, count = 8"
+15:08:30.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 8, S = 1419, count = 8"
+15:08:30.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 9, S = 1420, count = 9"
+15:08:30.689 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 9, S = 1420, count = 9"
+15:08:30.743 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 10, S = 1419, count = 10"
+15:08:30.790 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 10, S = 1419, count = 10"
+15:08:30.841 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 11, S = 1419, count = 11"
+15:08:30.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 11, S = 1419, count = 11"
+15:08:30.941 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 12, S = 1420, count = 12"
+15:08:30.991 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 13, S = 1419, count = 13"
+15:08:31.042 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 13, S = 1419, count = 13"
+15:08:31.096 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 14, S = 1419, count = 14"
+15:08:31.140 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 14, S = 1419, count = 14"
+15:08:31.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 15, S = 1420, count = 15"
+15:08:31.240 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 15, S = 1420, count = 15"
+15:08:31.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 16, S = 1419, count = 16"
+15:08:31.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 16, S = 1419, count = 16"
+15:08:31.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 17, S = 1419, count = 17"
+15:08:31.441 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 18, S = 1420, count = 18"
+15:08:31.489 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 18, S = 1420, count = 18"
+15:08:31.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 19, S = 1419, count = 19"
+15:08:31.589 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 19, S = 1419, count = 19"
+15:08:31.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 20, S = 1419, count = 20"
+15:08:31.690 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 20, S = 1419, count = 20"
+15:08:31.740 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 21, S = 1419, count = 21"
+15:08:31.795 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 21, S = 1419, count = 21"
+15:08:31.841 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 22, S = 1419, count = 22"
+15:08:31.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 23, S = 1419, count = 23"
+15:08:31.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 23, S = 1419, count = 23"
+15:08:31.993 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 24, S = 1418, count = 24"
+15:08:32.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 24, S = 1418, count = 24"
+15:08:32.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 25, S = 1417, count = 25"
+15:08:32.139 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 25, S = 1417, count = 25"
+15:08:32.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 26, S = 1419, count = 26"
+15:08:32.239 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 26, S = 1419, count = 26"
+15:08:32.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 27, S = 1423, count = 27"
+15:08:32.342 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 28, S = 1430, count = 28"
+15:08:32.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 28, S = 1430, count = 28"
+15:08:32.441 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 29, S = 1437, count = 29"
+15:08:32.490 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 29, S = 1437, count = 29"
+15:08:32.542 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 30, S = 1440, count = 30"
+15:08:32.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 30, S = 1440, count = 30"
+15:08:32.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 31, S = 1431, count = 31"
+15:08:32.689 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 31, S = 1431, count = 31"
+15:08:32.742 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 32, S = 1422, count = 32"
+15:08:32.789 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 32, S = 1422, count = 32"
+15:08:32.841 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 33, S = 1418, count = 33"
+15:08:32.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 34, S = 1417, count = 34"
+15:08:32.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 34, S = 1417, count = 34"
+15:08:32.993 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 35, S = 1419, count = 35"
+15:08:33.040 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 35, S = 1419, count = 35"
+15:08:33.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 36, S = 1424, count = 36"
+15:08:33.140 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 36, S = 1424, count = 36"
+15:08:33.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 37, S = 1431, count = 37"
+15:08:33.240 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 37, S = 1431, count = 37"
+15:08:33.294 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 38, S = 1438, count = 38"
+15:08:33.342 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 39, S = 1430, count = 39"
+15:08:33.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 39, S = 1430, count = 39"
+15:08:33.441 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 40, S = 1423, count = 40"
+15:08:33.490 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 40, S = 1423, count = 40"
+15:08:33.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 41, S = 1423, count = 41"
+15:08:33.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 41, S = 1423, count = 41"
+15:08:33.642 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 42, S = 1420, count = 42"
+15:08:33.689 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 42, S = 1420, count = 42"
+15:08:33.742 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 43, S = 1420, count = 43"
+15:08:33.791 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 44, S = 1432, count = 44"
+15:08:33.840 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 44, S = 1432, count = 44"
+15:08:33.892 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 45, S = 1432, count = 45"
+15:08:33.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 45, S = 1432, count = 45"
+15:08:33.992 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 46, S = 1424, count = 46"
+15:08:34.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 46, S = 1424, count = 46"
+15:08:34.092 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 47, S = 1424, count = 47"
+15:08:34.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 47, S = 1424, count = 47"
+15:08:34.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 48, S = 1431, count = 48"
+15:08:34.242 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 49, S = 1429, count = 49"
+15:08:34.290 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 49, S = 1429, count = 49"
+15:08:34.341 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 50, S = 1430, count = 50"
+15:08:34.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 50, S = 1430, count = 50"
+15:08:34.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 51, S = 1436, count = 51"
+15:08:34.490 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 51, S = 1436, count = 51"
+15:08:34.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 52, S = 1437, count = 52"
+15:08:34.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 52, S = 1437, count = 52"
+15:08:34.642 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 53, S = 1431, count = 53"
+15:08:34.691 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 54, S = 1429, count = 54"
+15:08:34.740 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 54, S = 1429, count = 54"
+15:08:34.791 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 55, S = 1433, count = 55"
+15:08:34.840 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 55, S = 1433, count = 55"
+15:08:34.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 56, S = 1424, count = 56"
+15:08:34.939 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 56, S = 1424, count = 56"
+15:08:34.992 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 57, S = 1419, count = 57"
+15:08:35.039 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 57, S = 1419, count = 57"
+15:08:35.123 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 58, S = 1425, count = 58"
+15:08:35.142 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 59, S = 1426, count = 59"
+15:08:35.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 59, S = 1426, count = 59"
+15:08:35.241 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 60, S = 1419, count = 60"
+15:08:35.290 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 60, S = 1419, count = 60"
+15:08:35.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 61, S = 1423, count = 61"
+15:08:35.389 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 61, S = 1423, count = 61"
+15:08:35.442 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 62, S = 1428, count = 62"
+15:08:35.490 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 62, S = 1428, count = 62"
+15:08:35.542 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 63, S = 1424, count = 63"
+15:08:35.589 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 63, S = 1424, count = 63"
+15:08:35.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 64, S = 1423, count = 64"
+15:08:35.692 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 65, S = 1428, count = 65"
+15:08:35.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 65, S = 1428, count = 65"
+15:08:35.790 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 66, S = 1430, count = 66"
+15:08:35.840 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 66, S = 1430, count = 66"
+15:08:35.891 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 67, S = 1422, count = 67"
+15:08:35.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 67, S = 1422, count = 67"
+15:08:35.992 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 68, S = 1423, count = 68"
+15:08:36.040 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 68, S = 1423, count = 68"
+15:08:36.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 69, S = 1430, count = 69"
+15:08:36.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 70, S = 1433, count = 70"
+15:08:36.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 70, S = 1433, count = 70"
+15:08:36.244 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 71, S = 1428, count = 71"
+15:08:36.292 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 71, S = 1428, count = 71"
+15:08:36.342 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 72, S = 1421, count = 72"
+15:08:36.389 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 72, S = 1421, count = 72"
+15:08:36.441 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 73, S = 1426, count = 73"
+15:08:36.490 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 73, S = 1426, count = 73"
+15:08:36.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 74, S = 1429, count = 74"
+15:08:36.592 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 75, S = 1430, count = 75"
+15:08:36.640 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 75, S = 1430, count = 75"
+15:08:36.690 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 76, S = 1431, count = 76"
+15:08:36.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 76, S = 1431, count = 76"
+15:08:36.790 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 77, S = 1432, count = 77"
+15:08:36.840 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 77, S = 1432, count = 77"
+15:08:36.891 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 78, S = 1432, count = 78"
+15:08:36.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 78, S = 1432, count = 78"
+15:08:36.992 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 79, S = 1433, count = 79"
+15:08:37.045 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 80, S = 1437, count = 80"
+15:08:37.090 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 80, S = 1437, count = 80"
+15:08:37.142 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 81, S = 1435, count = 81"
+15:08:37.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 81, S = 1435, count = 81"
+15:08:37.243 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 82, S = 1427, count = 82"
+15:08:37.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 82, S = 1427, count = 82"
+15:08:37.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 83, S = 1418, count = 83"
+15:08:37.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 83, S = 1418, count = 83"
+15:08:37.442 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 84, S = 1413, count = 84"
+15:08:37.492 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 85, S = 1413, count = 85"
+15:08:37.540 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 85, S = 1413, count = 85"
+15:08:37.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 86, S = 1413, count = 86"
+15:08:37.639 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 86, S = 1413, count = 86"
+15:08:37.691 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 87, S = 1413, count = 87"
+15:08:37.743 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 87, S = 1413, count = 87"
+15:08:37.797 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 88, S = 1413, count = 88"
+15:08:37.842 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 88, S = 1413, count = 88"
+15:08:37.892 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 89, S = 1413, count = 89"
+15:08:37.939 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 89, S = 1413, count = 89"
+15:08:37.991 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 90, S = 1413, count = 90"
+15:08:38.040 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 91, S = 1413, count = 91"
+15:08:38.090 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 91, S = 1413, count = 91"
+15:08:38.142 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 92, S = 1413, count = 92"
+15:08:38.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 92, S = 1413, count = 92"
+15:08:38.241 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 93, S = 1414, count = 93"
+15:08:38.290 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 93, S = 1414, count = 93"
+15:08:38.342 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 94, S = 1416, count = 94"
+15:08:38.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 94, S = 1416, count = 94"
+15:08:38.442 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 95, S = 1415, count = 95"
+15:08:38.495 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 96, S = 1420, count = 96"
+15:08:38.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 96, S = 1420, count = 96"
+15:08:38.591 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 97, S = 1416, count = 97"
+15:08:38.640 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 97, S = 1416, count = 97"
+15:08:38.690 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 98, S = 1421, count = 98"
+15:08:38.739 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 98, S = 1421, count = 98"
+15:08:38.791 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 99, S = 1424, count = 99"
+15:08:38.840 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 99, S = 1424, count = 99"
+15:08:38.892 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 100, S = 1432, count = 100"
+15:08:38.942 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 101, S = 1431, count = 101"
+15:08:38.989 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 101, S = 1431, count = 101"
+15:08:39.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 102, S = 1430, count = 102"
+15:08:39.090 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 102, S = 1430, count = 102"
+15:08:39.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 103, S = 1424, count = 103"
+15:08:39.189 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 103, S = 1424, count = 103"
+15:08:39.244 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 104, S = 1422, count = 104"
+15:08:39.293 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 104, S = 1422, count = 104"
+15:08:39.342 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 105, S = 1423, count = 105"
+15:08:39.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 106, S = 1424, count = 106"
+15:08:39.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 106, S = 1424, count = 106"
+15:08:39.493 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 107, S = 1425, count = 107"
+15:08:39.540 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 107, S = 1425, count = 107"
+15:08:39.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 108, S = 1431, count = 108"
+15:08:39.640 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 108, S = 1431, count = 108"
+15:08:39.691 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 109, S = 1437, count = 109"
+15:08:39.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 109, S = 1437, count = 109"
+15:08:39.793 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 110, S = 1440, count = 110"
+15:08:39.845 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 111, S = 1461, count = 111"
+15:08:39.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 111, S = 1461, count = 111"
+15:08:39.942 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 112, S = 1475, count = 112"
+15:08:39.990 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 112, S = 1475, count = 112"
+15:08:40.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 113, S = 1482, count = 113"
+15:08:40.090 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 113, S = 1482, count = 113"
+15:08:40.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 114, S = 1443, count = 114"
+15:08:40.190 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 114, S = 1443, count = 114"
+15:08:40.242 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 115, S = 1430, count = 115"
+15:08:40.293 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 116, S = 1426, count = 116"
+15:08:40.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 116, S = 1426, count = 116"
+15:08:40.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 117, S = 1423, count = 117"
+15:08:40.441 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 117, S = 1423, count = 117"
+15:08:40.491 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 118, S = 1426, count = 118"
+15:08:40.539 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 118, S = 1426, count = 118"
+15:08:40.591 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 119, S = 1432, count = 119"
+15:08:40.639 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 119, S = 1432, count = 119"
+15:08:40.692 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 120, S = 1425, count = 120"
+15:08:40.739 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 120, S = 1425, count = 120"
+15:08:40.792 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 121, S = 1413, count = 121"
+15:08:40.845 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 122, S = 1408, count = 122"
+15:08:40.889 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 122, S = 1408, count = 122"
+15:08:40.941 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 123, S = 1408, count = 123"
+15:08:40.990 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 123, S = 1408, count = 123"
+15:08:41.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 124, S = 1405, count = 124"
+15:08:41.089 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 124, S = 1405, count = 124"
+15:08:41.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 125, S = 1404, count = 125"
+15:08:41.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 125, S = 1404, count = 125"
+15:08:41.241 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 126, S = 1405, count = 126"
+15:08:41.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 127, S = 1405, count = 127"
+15:08:41.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 127, S = 1405, count = 127"
+15:08:41.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 128, S = 1405, count = 128"
+15:08:41.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 128, S = 1405, count = 128"
+15:08:41.492 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 129, S = 1404, count = 129"
+15:08:41.540 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 129, S = 1404, count = 129"
+15:08:41.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 130, S = 1405, count = 130"
+15:08:41.639 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 130, S = 1405, count = 130"
+15:08:41.691 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 131, S = 1404, count = 131"
+15:08:41.742 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 132, S = 1404, count = 132"
+15:08:41.789 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 132, S = 1404, count = 132"
+15:08:41.841 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 133, S = 1405, count = 133"
+15:08:41.889 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 133, S = 1405, count = 133"
+15:08:41.942 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 134, S = 1408, count = 134"
+15:08:41.991 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 134, S = 1408, count = 134"
+15:08:42.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 135, S = 1416, count = 135"
+15:08:42.089 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 135, S = 1416, count = 135"
+15:08:42.143 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 136, S = 1426, count = 136"
+15:08:42.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 137, S = 1428, count = 137"
+15:08:42.240 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 137, S = 1428, count = 137"
+15:08:42.293 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 138, S = 1421, count = 138"
+15:08:42.339 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 138, S = 1421, count = 138"
+15:08:42.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 139, S = 1412, count = 139"
+15:08:42.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 139, S = 1412, count = 139"
+15:08:42.494 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 140, S = 1410, count = 140"
+15:08:42.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 140, S = 1410, count = 140"
+15:08:42.591 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 141, S = 1410, count = 141"
+15:08:42.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 142, S = 1413, count = 142"
+15:08:42.690 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 142, S = 1413, count = 142"
+15:08:42.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 143, S = 1415, count = 143"
+15:08:42.790 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 143, S = 1415, count = 143"
+15:08:42.842 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 144, S = 1413, count = 144"
+15:08:42.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 144, S = 1413, count = 144"
+15:08:42.941 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 145, S = 1414, count = 145"
+15:08:42.991 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 145, S = 1414, count = 145"
+15:08:43.044 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 146, S = 1414, count = 146"
+15:08:43.090 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 146, S = 1414, count = 146"
+15:08:43.141 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 147, S = 1413, count = 147"
+15:08:43.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 148, S = 1414, count = 148"
+15:08:43.240 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 148, S = 1414, count = 148"
+15:08:43.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 149, S = 1413, count = 149"
+15:08:43.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 149, S = 1413, count = 149"
+15:08:43.390 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 150, S = 1413, count = 150"
+15:08:43.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 150, S = 1413, count = 150"
+15:08:43.491 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 151, S = 1413, count = 151"
+15:08:43.540 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 151, S = 1413, count = 151"
+15:08:43.592 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 152, S = 1413, count = 152"
+15:08:43.642 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 153, S = 1412, count = 153"
+15:08:43.689 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 153, S = 1412, count = 153"
+15:08:43.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 154, S = 1414, count = 154"
+15:08:43.791 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 154, S = 1414, count = 154"
+15:08:43.842 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 155, S = 1413, count = 155"
+15:08:43.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 155, S = 1413, count = 155"
+15:08:43.941 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 156, S = 1413, count = 156"
+15:08:43.989 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 156, S = 1413, count = 156"
+15:08:44.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 157, S = 1414, count = 157"
+15:08:44.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 158, S = 1413, count = 158"
+15:08:44.140 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 158, S = 1413, count = 158"
+15:08:44.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 159, S = 1413, count = 159"
+15:08:44.241 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 159, S = 1413, count = 159"
+15:08:44.291 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 160, S = 1413, count = 160"
+15:08:44.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 160, S = 1413, count = 160"
+15:08:44.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 161, S = 1413, count = 161"
+15:08:44.439 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 161, S = 1413, count = 161"
+15:08:44.492 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 162, S = 1414, count = 162"
+15:08:44.543 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 163, S = 1414, count = 163"
+15:08:44.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 163, S = 1414, count = 163"
+15:08:44.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 164, S = 1413, count = 164"
+15:08:44.689 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 164, S = 1413, count = 164"
+15:08:44.740 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 165, S = 1413, count = 165"
+15:08:44.790 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 165, S = 1413, count = 165"
+15:08:44.841 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 166, S = 1413, count = 166"
+15:08:44.890 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 166, S = 1413, count = 166"
+15:08:44.940 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 167, S = 1413, count = 167"
+15:08:44.994 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 168, S = 1414, count = 168"
+15:08:45.041 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 168, S = 1414, count = 168"
+15:08:45.091 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 169, S = 1413, count = 169"
+15:08:45.140 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 169, S = 1413, count = 169"
+15:08:45.191 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 170, S = 1413, count = 170"
+15:08:45.245 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 170, S = 1413, count = 170"
+15:08:45.293 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 171, S = 1413, count = 171"
+15:08:45.340 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 171, S = 1413, count = 171"
+15:08:45.391 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 172, S = 1414, count = 172"
+15:08:45.440 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 172, S = 1414, count = 172"
+15:08:45.492 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 173, S = 1413, count = 173"
+15:08:45.541 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 174, S = 1413, count = 174"
+15:08:45.590 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 174, S = 1413, count = 174"
+15:08:45.641 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 175, S = 1413, count = 175"
+15:08:45.690 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 175, S = 1413, count = 175"
+15:08:45.741 (0x1490) [debug] void __cdecl CustomPlotItem::upAisleData(void) "Adding dot t = 176, S = 1413, count = 176"
+15:08:45.775 (0x1490) [debug] true
+15:08:45.776 (0x1490) [debug]  openPort is working 
+15:08:45.778 (0x1490) [debug] qml: get result:false
+15:08:48.480 (0x1490) [debug] qml: [trace]activefalse
+15:09:00.444 (0x1490) [debug] qml: [trace]activetrue
+15:09:00.448 (0x1490) [debug] qml: [trace]activefalse
+15:09:01.642 (0x1490) [debug] qml: [trace]activetrue
+15:09:01.646 (0x1490) [debug] Data saved to file:  "C:/Users/沈鑫晨/Desktop/数据量记录.txt"
+15:09:01.668 (0x1490) [debug] qml: [trace]activefalse
+15:09:02.926 (0x1490) [debug] qml: [trace]activetrue
+15:09:03.713 (0x1490) [trace] qml:
+15:09:03.968 (0x1490) [info ] ----- msAppExit: 18831987.592500, 00:31:22.16949987
+15:09:03.969 (0x1490) [info ] app running: 55407.972000, 00:00:05.50407
+15:09:03.970 (0x1490) [info ] app return: 0
+15:09:03.971 (0x1490) [info ] ----- App exit ------

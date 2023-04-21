@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+  Generate moc_predefs.h
+  SlApp.cpp
+  SlBase.cpp
+  SlFile.cpp
+  SlIni.cpp
+  SlLog.cpp
+  SlStr.cpp
+  SlTime.cpp
+E:\BaiduSyncdisk\code\QT\QMLdemo\SerialPortWave\SlBase\cpp\SlFile.cpp(64,18): warning C4305: “return”: 从“int”到“bool”截断
+    正在创建库 debug\\SlBase.lib 和对象 debug\\SlBase.exp
+  SlBase.vcxproj -> E:\BaiduSyncdisk\code\QT\QMLdemo\SerialPortWave\SlBase\debug\SlBase.dll
